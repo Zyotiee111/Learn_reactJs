@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Grandstander:wght@200&display=swap");
+.avatar img{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    
+}
+.avatar:hover{
+    transform: translateY(-15px);
+
+}
+.pname{
+    text-align: center;
+
+}
+.avatar{
+    background-color: rgb(212, 101, 212);
+    display: inline-block;
+    margin: 20px;
+    padding-top: 20px;
+}
+.btn{
+    background-color: rgb(212, 101, 212);
+    color: whitesmoke;
+}
+.mainpage{
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+    font-family: 'Grandstander', cursive;
+}
+.mainpage h1{
+    margin: 0;
+    padding: 20px 0;
+}
